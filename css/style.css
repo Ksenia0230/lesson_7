@@ -101,8 +101,19 @@ h2 {
 .item-last {
 	margin-bottom: 48px;
 }
+
 .button {
-	padding-bottom: 100px;
+	display: inline-block;
+	background: linear-gradient(55.95deg, #ff3f3a 0%, #f75e05 100%);
+	border-radius: 4px;
+	padding: 10px 32px;
+}
+
+.button-1 {
+	color: #fff;
+	font-size: 14px;
+	font-weight: 700;
+	letter-spacing: 0.5px;
 }
 .part-3 {
 	padding-bottom: 100px;
